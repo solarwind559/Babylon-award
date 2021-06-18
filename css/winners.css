@@ -31,8 +31,8 @@ section #bg {
 
 section #bg-2 {
   background-color: #3d4661;
-  -webkit-clip-path: polygon(100% 0, 0% 100%, 0 0);
-          clip-path: polygon(100% 0, 0% 100%, 0 0);
+  -webkit-clip-path: polygon(0 0, 90% 0, 0 100%, 100% 100%, 100% 60%, 70% 100%, 0 100%);
+          clip-path: polygon(0 0, 90% 0, 0 100%, 100% 100%, 100% 60%, 70% 100%, 0 100%);
   background-attachment: fixed;
   width: 100%;
   height: 100% !important;
